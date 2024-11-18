@@ -1,6 +1,6 @@
 import path from "path";
 
-import PathUtils from "../../src/utils/craftshelf-fy/js/pathUtils.mjs";
+import PathUtils from "../../utils/craftshelf-fy/js/pathUtils.mjs";
 const { __dirname } = PathUtils.getFileDetails(import.meta.url);
 
 export default [
