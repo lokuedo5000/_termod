@@ -1,0 +1,15 @@
+{
+  "name": "crushify",
+  "version": "1.0.0",
+  "description": "Convert images to any available format and use them as you wish",
+  "main": "suggested.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
